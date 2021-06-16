@@ -108,12 +108,12 @@ build {
 //    }
 //
 //    manifest {
-//        attributes "FMLCorePlugin": "si.seraph.opensource.mods.MixinLoader"
+//        attributes "FMLCorePlugin": "me.exejar.clienttutorial.MixinLoader"
 //        attributes "FMLCorePluginContainsFMLMod": "true"
 //        attributes "ForceLoadAsMod": "true"
 //        attributes "TweakClass": "org.spongepowered.asm.launch.MixinTweaker"
 //        attributes "TweakOrder": "0"
-//        attributes "MixinConfigs": "seraph.mixins.json"
+//        attributes "MixinConfigs": "clienttutorial.mixins.json"
 //    }
 //}
 
